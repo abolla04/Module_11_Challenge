@@ -45,7 +45,7 @@ To view the analysis, open the forecasting_net_prophet.ipynb from the repository
 
 ##  Contributors
 
-Brough to you by Aboll, Growth Analyst at MercadoLibre
+Brough to you by Abolla, Growth Analyst at MercadoLibre
 
 ---
 
